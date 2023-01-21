@@ -353,5 +353,9 @@ border-radius: 50px;
         width: fit-content;
         font-size: 30px;
     }
+    .wrapper 
+    { 
+        margin: 0rem 6px !important;
+    }
 
 }
